@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/github_actions_gtest_example.test.dir/AllTests.cpp.o CMakeFiles/github_actions_gtest_example.test.dir/github_actions_gtest_exampleTest.cpp.o -o github_actions_gtest_example.test  -Wl,-rpath,/home/katari/tp/github_actions_gtest_example/build/src: ../src/libgithub_actions_gtest_example.so -lgtest -lpthread 
