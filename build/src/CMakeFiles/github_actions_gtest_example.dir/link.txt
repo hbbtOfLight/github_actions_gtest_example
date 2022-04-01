@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libgithub_actions_gtest_example.so -o libgithub_actions_gtest_example.so CMakeFiles/github_actions_gtest_example.dir/github_actions_gtest_example.cpp.o  -lpthread 
